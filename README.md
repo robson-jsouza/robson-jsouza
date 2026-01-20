@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Robson 👋
 
-<!--
-**robson-jsouza/robson-jsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer focused on **.NET 8, C#, and Angular**  
+📍 Brazil – open to remote opportunities  
+🚀 Passionate about clean architecture, maintainable code, and continuous learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Work With
+
+- Backend development with **ASP.NET Core / .NET 8**
+- Frontend development using **Angular**
+- Automated tests with **xUnit, BDD (Reqnroll)** 
+- SOLID principles, clean architecture, and good development practices
+
+---
+
+## 🔧 Featured Projects
+
+- **DTO Generator (JSON → C# / TypeScript)**  
+  Console tool that generates C# and TypeScript DTO classes from a JSON sample.  
+  ➜ [Repository](https://github.com/robson-jsouza/DTO-Generator-from-Json-to-C-Sharp-and-Type-Script)
+
+- **BDD Test Suite – Reqnroll + xUnit**  
+  Demonstrates BDD-style tests using Reqnroll with xUnit in .NET.  
+  ➜ [Repository](https://github.com/robson-jsouza/ReqnrollTestProject.xUnit)
+
+- **Longest Palindrome Challenge**  
+  Algorithm challenge in C# to find the longest palindrome in a string.  
+  ➜ [Repository](https://github.com/robson-jsouza/LongestPalindromeChallenge)
+
+---
+
+## 📚 Currently Learning
+
+- Advanced **.NET 8** (minimal APIs, performance, observability)
+- **Angular 17+** (reactive forms, RxJS, component architecture)
+- Automated testing (TDD/BDD, integration tests, mocks)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [Robson Souza](https://www.linkedin.com/in/robsonjsouza/)
+- Email: robson.jsouza@outlook.com
