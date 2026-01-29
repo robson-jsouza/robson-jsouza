@@ -6,7 +6,9 @@
 
 🎥 **Short introduction video**  
 A quick overview of what I work with and the kind of projects I enjoy building.  
-👉 [Watch the video](https://www.linkedin.com/posts/robsonjsouza_this-is-a-short-introduction-about-me-and-activity-7422440679324221440-0nr3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAldUOwB65ijt3XYnAR1hEGJOrRc1PW6LIY)
+👉 <a href="https://www.linkedin.com/posts/robsonjsouza_this-is-a-short-introduction-about-me-and-activity-7422440679324221440-0nr3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAldUOwB65ijt3XYnAR1hEGJOrRc1PW6LIY" target="_blank" rel="noopener noreferrer">
+[Watch the video]
+</a>
 
 ---
 
