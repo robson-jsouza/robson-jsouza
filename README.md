@@ -1,7 +1,7 @@
 # Hi, I'm Robson 👋
 
 💻 Software Developer focused on **.NET 8, C#, and Angular**  
-📍 Brazil – open to remote opportunities  
+📍 Brazil  
 🚀 Passionate about clean architecture, maintainable code, and continuous learning.
 
 🎥 **Short introduction video**  
